@@ -1,0 +1,23 @@
+{
+  "name": "vue-2.7-ws-chat",
+  "version": "1.0.0",
+  "description": "Simple chat component using Vue.js 2.7",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^2.7.7"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.8"
+  },
+  "keywords": [
+    "vue",
+    "chat",
+    "websocket"
+  ],
+  "author": "Dmitrii Butakov",
+  "license": "MIT"
+}
